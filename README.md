@@ -51,3 +51,12 @@ You get the following on render
 
 
 You can learn all about Squarespace and JSON-T templating [here](http://developers.squarespace.com/templating-basics/).
+
+
+
+### Pull Requests
+1. Fork it
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request
