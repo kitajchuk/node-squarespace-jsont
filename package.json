@@ -2,7 +2,7 @@
     "title": "Node Squarespace JSONT",
     "name": "node-squarespace-jsont",
     "description": "The json-template render engine for Squarespace in node.",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "homepage": "https://github.com/kitajchuk/node-squarespace-jsont",
     "readmeFilename": "README.md",
     "contributors": [
