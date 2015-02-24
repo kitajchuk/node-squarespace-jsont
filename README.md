@@ -50,7 +50,11 @@ You get the following on render
 ```
 
 
-You can learn all about Squarespace and JSON-T templating [here](http://developers.squarespace.com/templating-basics/).
+### Resources
+These links should help the dive into json-template.
+- [Squarespace Templating Basics](http://developers.squarespace.com/templating-basics/)
+- [Squarespace JSONT Explanation](http://jsont.squarespace.com/)
+- [JSONT on Google Code](https://code.google.com/p/json-template/)
 
 
 
