@@ -49,11 +49,6 @@ You get the following on render
 <p>This is the page description.</p>
 ```
 
-Getting the count of an item's items, as in a store product with multiple images
-```html
-{items|count}
-```
-
 
 ### Resources
 These links should help the dive into json-template.
