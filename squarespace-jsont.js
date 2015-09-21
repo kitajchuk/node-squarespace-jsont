@@ -5,8 +5,8 @@
  */
 var jsonTemplate = require( "./lib/jsontemplate" ),
     jsontOptions = {
-        more_formatters: require( "./lib/formatters" ),
-        more_predicates: require( "./lib/predicates" ),
+        more_formatters: require( "./lib/formatters/index" ),
+        more_predicates: require( "./lib/predicates/index" ),
         undefined_str: ""
     },
 
