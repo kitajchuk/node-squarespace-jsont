@@ -1,7 +1,7 @@
 node-squarespace-jsont
 ======================
 
-> The json-template render engine for Squarespace in node.
+> The JSONT template rendering engine for Squarespace in node.js.
 
 
 ### Installation
